@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓 2nd year Masters Embedded Engineer<br>🐧 Linux above all, Linux supremacy ❤️
+🎓 3rd year Masters Embedded Engineer<br>🐧 Linux above all, Linux supremacy ❤️
 
 
 # 💻 Tech Stack:
